@@ -206,10 +206,3 @@ Este projeto foi utilizado para consolidar conhecimentos em:
 - Visualização de dados;
 - Interpretação e comunicação de insights.
 
----
-
-## 👨‍💻 Autor
-
-**Daniel Dantas**
-
-Projeto desenvolvido como parte do meu portfólio de **Análise de Dados e Business Intelligence**.
