@@ -8,7 +8,7 @@ O projeto parte de perguntas de negócio e passa pela **validação e exploraç�
 
 ## 📊 Dashboard
 
-![Dashboard - Análise de Investidores](images/dashboard.png)
+![Dashboard - Análise de Investidores](imagens/Dashboard.png)
 
 ---
 
