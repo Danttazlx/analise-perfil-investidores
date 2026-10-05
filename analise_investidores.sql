@@ -1,19 +1,10 @@
 
 
 /*
-=========================================================
- PROJETO: Análise do Perfil e Comportamento de Investidores
- BANCO: SQL Server
 
  OBJETIVO:
  Explorar o perfil dos participantes e analisar suas
  preferências e comportamentos de investimento.
-
- OBSERVAÇÃO:
- A base contém 40 participantes. Os resultados representam
- apenas os participantes da pesquisa e não devem ser
- generalizados para todos os investidores.
-=========================================================
 */
 
 
